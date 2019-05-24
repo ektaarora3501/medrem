@@ -8,7 +8,7 @@ from random import randint
 from flask_login import LoginManager,UserMixin,login_required,login_user,logout_user
 
 account_sid="AC8d9cd796662e71009515af66742adac0"
-auth_token="959724443bbd2ab2ffaf4edcb774dcbf"
+auth_token="*************"
 
 client = Client(account_sid,auth_token)
 
