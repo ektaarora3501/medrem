@@ -14,7 +14,7 @@ client = Client(account_sid,auth_token)
 
 from_whatsapp_number='whatsapp:+14155238886'           #+14155238886
 
-to_whatsapp_number='whatsapp:+918360581227'
+to_whatsapp_number='whatsapp:*************'
 
 
 
